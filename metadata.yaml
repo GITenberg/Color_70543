@@ -1,5 +1,8 @@
 _repo: Color_70543
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70543-h/images/cover.jpg
 creator:
   author:
     agent_name: Cullen, Countee
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55794
     wikipedia: https://en.wikipedia.org/wiki/Countee_Cullen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70543#Color
 gutenberg_issued: '2023-04-14'
 identifiers:
   gutenberg: '70543'
